@@ -7,8 +7,7 @@ cffi==2.0.0
 charset-normalizer==3.4.3
 click==8.2.1
 ddt==1.7.2
-gitdb==4.0.12
-GitPython==3.1.45
+gitdb
 idna==3.11
 Jinja2==3.1.6
 jsonpath-ng==1.7.0
@@ -35,7 +34,7 @@ requests==2.32.5
 rich==14.1.0
 rpds-py==0.25.0
 six==1.17.0
-smmap==6.0.0
+smmap
 streamlit==1.51.0
 tenacity==9.1.2
 toml==0.10.2
