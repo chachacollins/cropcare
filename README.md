@@ -11,6 +11,7 @@ This is a knowledge base which contains information about pests and disease whic
 ```bash
 streamlit run app.py
 ```
+https://cropcareio.streamlit.app/
 
 ## LICENSE
 This code is under the public domain license
